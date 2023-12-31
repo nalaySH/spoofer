@@ -1,2 +1,3 @@
-# spoofer
-mac auto spoofer
+##### usage: 
+
+```sh /path/2/spoofer/spoofer <NIC> <TIME-INTERVAL>```
